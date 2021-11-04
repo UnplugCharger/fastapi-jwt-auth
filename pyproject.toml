@@ -12,6 +12,7 @@ uvicorn = "^0.15.0"
 passlib = "^1.7.4"
 PyJWT = "^2.3.0"
 SQLAlchemy = "^1.4.26"
+black = "^21.10b0"
 
 [tool.poetry.dev-dependencies]
 
